@@ -1,0 +1,20 @@
+t = 0:size(DOFAll,1)-1;
+
+figure(1);
+plot(t,DOFAll(:,1),'-', [0 t(end)],[min(DOFAll(:,1))-20 max(DOFAll(:,1))+20]);
+title('x translation (mm)', 'fontsize',18);
+figure(2);
+plot(t,DOFAll(:,2),'-', [0 t(end)],[min(DOFAll(:,2))-20 max(DOFAll(:,2))+20]);
+title('y translation (mm)', 'fontsize',18);
+figure(3);
+plot(t,DOFAll(:,3),'-', [0 t(end)],[min(DOFAll(:,3))-20 max(DOFAll(:,3))+20]);
+title('z translation (mm)', 'fontsize',18);
+figure(4);
+plot(t,DOFAll(:,4),'-', [0 t(end)],[-90 90]);
+title('Roll (°)', 'fontsize',18);
+figure(5);
+plot(t,DOFAll(:,5),'-', [0 t(end)],[-90 90]);
+title('Pitch (°)', 'fontsize',18);
+figure(6);
+plot(t,DOFAll(:,6),'-', [0 t(end)],[-90 90]);
+title('Yaw (°)', 'fontsize',18);
