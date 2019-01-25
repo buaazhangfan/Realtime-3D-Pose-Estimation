@@ -12,11 +12,11 @@
 
 Overview:
 
-[overview](https://github.com/buaazhangfan/Realtime-3D-Pose-Estimation/blob/master/pics/theory.png)
+![overview](https://github.com/buaazhangfan/Realtime-3D-Pose-Estimation/blob/master/pics/theory.png)
 
 Process:
 
-[process](https://github.com/buaazhangfan/Realtime-3D-Pose-Estimation/blob/master/pics/process.png)
+![process](https://github.com/buaazhangfan/Realtime-3D-Pose-Estimation/blob/master/pics/process.png)
 
 ------
 1. folder `calibration/` contains chessboard images to calibrate the camera using Zhang's calibration method.
