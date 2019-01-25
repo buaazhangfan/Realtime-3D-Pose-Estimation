@@ -39,10 +39,14 @@ Remember to calibrate the camera first to get the camera-parameter matric.
 
 ------
 
-Overall interface
+Final Result
+
+<img src="https://github.com/buaazhangfan/Realtime-3D-Pose-Estimation/blob/master/pics/result.png" width = 50% height = 50% div align=center />
+
+User interface
 
 
-<img src="https://github.com/buaazhangfan/Realtime-3D-Pose-Estimation/blob/master/pics/calibration.png" width = 30% height = 50% div align=center />
+<img src="https://github.com/buaazhangfan/Realtime-3D-Pose-Estimation/blob/master/pics/final.png" width = 50% height = 50% div align=center />
 
 
 
