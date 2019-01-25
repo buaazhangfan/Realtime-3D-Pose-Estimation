@@ -14,7 +14,6 @@ Overview:
 
 <div align=center><img src="https://github.com/buaazhangfan/Realtime-3D-Pose-Estimation/blob/master/pics/theory.png" width = 30% height = 50% div align=center />
 
-Process:
 
 <div align=center><img src="https://github.com/buaazhangfan/Realtime-3D-Pose-Estimation/blob/master/pics/process.png" width = 30% height = 50% div align=center />
 
