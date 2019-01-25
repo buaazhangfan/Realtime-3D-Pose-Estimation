@@ -23,7 +23,26 @@ Process:
 	
 2. folder `ChessBoard/` contains C++ files to generate a chessborad image at any size.
 
+3. folder `input/` contains the input images
 
+4. folder `output/` contains the output 3d pose reconstruction result
+
+------
++ The `TreDimReconstruct.m` calculate the output result of input images.
++ The `PoseEstimationV1.m` is the core files that doing image processing and pose estimation calculations.
++ The `img_acq.m` is the user interface of our project which intergrated all functions.
+
+------
+Remember to calibrate the camera first to get the camera-parameter matric.
+
+<img src="https://github.com/buaazhangfan/Realtime-3D-Pose-Estimation/blob/master/pics/calibration.png" width = 30% height = 50% div align=center />
+
+------
+
+Overall interface
+
+
+<img src="https://github.com/buaazhangfan/Realtime-3D-Pose-Estimation/blob/master/pics/calibration.png" width = 30% height = 50% div align=center />
 
 
 
